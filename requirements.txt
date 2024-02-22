@@ -3,4 +3,5 @@ numpy
 pandas
 pydeck
 streamlit
+statsmodels
 joblib
